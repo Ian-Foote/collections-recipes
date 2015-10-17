@@ -12,7 +12,6 @@ collections-recipes
 Concrete implementations of the recipes in the collections module documentation.
 
 * Free software: ISC license
-* Documentation: https://collections-recipes.readthedocs.org.
 
 Features
 --------
